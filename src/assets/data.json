@@ -1,0 +1,2371 @@
+﻿[{
+        "id": "1",
+        "departure": "banjul",
+        "destination": "tallinding",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "2",
+        "departure": "banjul",
+        "destination": "bofa_zone",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "3",
+        "departure": "banjul",
+        "destination": "serrekunda",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "4",
+        "departure": "banjul",
+        "destination": "tabokoto",
+        "previousfare": " 12.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "5",
+        "departure": "banjul",
+        "destination": "bakau",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "6",
+        "departure": "banjul",
+        "destination": "brikama",
+        "previousfare": " 20.00",
+        "newfare": " 22.00"
+    },
+    {
+        "id": "7",
+        "departure": "westfield",
+        "destination": "bakau",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "8",
+        "departure": "westfield",
+        "destination": "tabokoto",
+        "previousfare": " 7.00",
+        "newfare": " 7.00"
+    },
+    {
+        "id": "9",
+        "departure": "westfield",
+        "destination": "lamin",
+        "previousfare": " 7.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "10",
+        "departure": "westfield",
+        "destination": "banjulinding",
+        "previousfare": " 7.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "11",
+        "departure": "westfield",
+        "destination": "coastal_road",
+        "previousfare": " 7.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "12",
+        "departure": "westfield",
+        "destination": "brikama",
+        "previousfare": " 15.00",
+        "newfare": " 18.00"
+    },
+    {
+        "id": "13",
+        "departure": "westfield",
+        "destination": "banjul",
+        "previousfare": " 10.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "14",
+        "departure": "serrekunda",
+        "destination": "bakau",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "15",
+        "departure": "serrekunda",
+        "destination": "banjulinding",
+        "previousfare": " 7.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "16",
+        "departure": "serrekunda",
+        "destination": "brikama",
+        "previousfare": " 15.00",
+        "newfare": " 18.00"
+    },
+    {
+        "id": "17",
+        "departure": "tabokoto",
+        "destination": "brikama",
+        "previousfare": " 15.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "18",
+        "departure": "tabokoto",
+        "destination": "coastal_road",
+        "previousfare": " 7.00",
+        "newfare": " 7.00"
+    },
+    {
+        "id": "19",
+        "departure": "tabokoto",
+        "destination": "lamin",
+        "previousfare": " 7.00",
+        "newfare": " 7.00"
+    },
+    {
+        "id": "20",
+        "departure": "tabokoto",
+        "destination": "banjulinding",
+        "previousfare": " 7.00",
+        "newfare": " 7.00"
+    },
+    {
+        "id": "21",
+        "departure": "tabokoto",
+        "destination": "old_jeshwang",
+        "previousfare": " 7.00",
+        "newfare": " 7.00"
+    },
+    {
+        "id": "22",
+        "departure": "serrrekunda",
+        "destination": "gunjur",
+        "previousfare": " 20.00",
+        "newfare": " 23.00"
+    },
+    {
+        "id": "23",
+        "departure": "serrekunda",
+        "destination": "tujereng",
+        "previousfare": " 15.00",
+        "newfare": " 18.00"
+    },
+    {
+        "id": "24",
+        "departure": "serrekunda",
+        "destination": "bb",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "25",
+        "departure": "serrekunda",
+        "destination": "senegambia",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "26",
+        "departure": "serrekunda",
+        "destination": "old_jeshwang",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "27",
+        "departure": "serrekunda",
+        "destination": "brufut",
+        "previousfare": " 12.00",
+        "newfare": " 14.00"
+    },
+    {
+        "id": "28",
+        "departure": "serrekunda",
+        "destination": "bijilo",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "29",
+        "departure": "serrekunda",
+        "destination": "manjai",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "30",
+        "departure": "serrekunda",
+        "destination": "ebo_town",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "31",
+        "departure": "serrekunda",
+        "destination": "bundung_bohole",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "32",
+        "departure": "serrekunda",
+        "destination": "brikamaba",
+        "previousfare": " 180.00",
+        "newfare": " 190.00"
+    },
+    {
+        "id": "33",
+        "departure": "serrekunda",
+        "destination": "tanje",
+        "previousfare": " 15.00",
+        "newfare": " 18.00"
+    },
+    {
+        "id": "34",
+        "departure": "serrekunda",
+        "destination": "bayaka",
+        "previousfare": " 15.00",
+        "newfare": " 18.00"
+    },
+    {
+        "id": "35",
+        "departure": "serrekunda",
+        "destination": "kunkujang",
+        "previousfare": " 15.00",
+        "newfare": " 18.00"
+    },
+    {
+        "id": "36",
+        "departure": "serrekunda",
+        "destination": "madiana",
+        "previousfare": " 15.00",
+        "newfare": " 18.00"
+    },
+    {
+        "id": "37",
+        "departure": "serrekunda",
+        "destination": "sukuta",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "38",
+        "departure": "serrekunda",
+        "destination": "kanifing_estate",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "39",
+        "departure": "serrekunda",
+        "destination": "sinchu_alagie",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "40",
+        "departure": "latirkunda",
+        "destination": "nema_kinku",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "41",
+        "departure": "turn_table",
+        "destination": "tanjie",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "42",
+        "departure": "brufut",
+        "destination": "turn_table",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "43",
+        "departure": "banjul",
+        "destination": "basse",
+        "previousfare": " 225.00",
+        "newfare": " 235.00"
+    },
+    {
+        "id": "44",
+        "departure": "banjul",
+        "destination": "bansang",
+        "previousfare": " 195.00",
+        "newfare": " 205.00"
+    },
+    {
+        "id": "45",
+        "departure": "banjul",
+        "destination": "soma",
+        "previousfare": " 105.00",
+        "newfare": " 110.00"
+    },
+    {
+        "id": "46",
+        "departure": "barra",
+        "destination": "kerewan",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "47",
+        "departure": "barra",
+        "destination": "amdalaye",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "48",
+        "departure": "barra",
+        "destination": "farefenni",
+        "previousfare": " 80.00",
+        "newfare": " 90.00"
+    },
+    {
+        "id": "49",
+        "departure": "barra",
+        "destination": "wassu",
+        "previousfare": " 155.00",
+        "newfare": " 170.00"
+    },
+    {
+        "id": "50",
+        "departure": "barra",
+        "destination": "kaur",
+        "previousfare": " 105.00",
+        "newfare": " 115.00"
+    },
+    {
+        "id": "51",
+        "departure": "barra",
+        "destination": "salikeneh",
+        "previousfare": " 60.00",
+        "newfare": " 65.00"
+    },
+    {
+        "id": "52",
+        "departure": "barra",
+        "destination": "kerr_patch",
+        "previousfare": " 60.00",
+        "newfare": " 65.00"
+    },
+    {
+        "id": "53",
+        "departure": "barra",
+        "destination": "bakindikeh",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "54",
+        "departure": "barra",
+        "destination": "bakalar",
+        "previousfare": " 18.00",
+        "newfare": " 20.00"
+    },
+    {
+        "id": "55",
+        "departure": "barra",
+        "destination": "albreda",
+        "previousfare": " 28.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "56",
+        "departure": "barra",
+        "destination": "sameh",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "57",
+        "departure": "barra",
+        "destination": "pakau",
+        "previousfare": " 28.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "58",
+        "departure": "barra",
+        "destination": "kerr_mama",
+        "previousfare": " 28.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "59",
+        "departure": "barra",
+        "destination": "berending",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "60",
+        "departure": "barra",
+        "destination": "buniadou",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "61",
+        "departure": "barra",
+        "destination": "mendy_kunda",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "62",
+        "departure": "barra",
+        "destination": "kerr_galo",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "63",
+        "departure": "barra",
+        "destination": "samending",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "64",
+        "departure": "barra",
+        "destination": "mbanyam",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "65",
+        "departure": "barra",
+        "destination": "kerr_wali",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "66",
+        "departure": "barra",
+        "destination": "geneck",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "67",
+        "departure": "barra",
+        "destination": "essau",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "68",
+        "departure": "barra",
+        "destination": "mayamba",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "69",
+        "departure": "barra",
+        "destination": "kunuuma",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "70",
+        "departure": "barra",
+        "destination": "mbollet",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "71",
+        "departure": "barra",
+        "destination": "njogone",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "72",
+        "departure": "barra",
+        "destination": "wellingara",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "73",
+        "departure": "barra",
+        "destination": "lewuna",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "74",
+        "departure": "barra",
+        "destination": "sanchaba_motel",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "75",
+        "departure": "barra",
+        "destination": "kerr_jatta",
+        "previousfare": " 18.00",
+        "newfare": " 20.00"
+    },
+    {
+        "id": "76",
+        "departure": "brikama",
+        "destination": "soma",
+        "previousfare": " 85.00",
+        "newfare": " 95.00"
+    },
+    {
+        "id": "77",
+        "departure": "brikama",
+        "destination": "kalagi",
+        "previousfare": " 60.00",
+        "newfare": " 65.00"
+    },
+    {
+        "id": "78",
+        "departure": "brikama",
+        "destination": "buwam",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "79",
+        "departure": "brikama",
+        "destination": "sibanor",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "80",
+        "departure": "brikama",
+        "destination": "gunjur",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "81",
+        "departure": "brikama",
+        "destination": "baullock",
+        "previousfare": " 20.00",
+        "newfare": " 23.00"
+    },
+    {
+        "id": "82",
+        "departure": "brikama",
+        "destination": "sifoe",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "83",
+        "departure": "brikama",
+        "destination": "giboro",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "84",
+        "departure": "brikama",
+        "destination": "baffolto",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "85",
+        "departure": "brikama",
+        "destination": "busura",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "86",
+        "departure": "brikama",
+        "destination": "dasilami",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "87",
+        "departure": "brikama",
+        "destination": "sanyang",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "88",
+        "departure": "brikama",
+        "destination": "jambanjelly",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "89",
+        "departure": "brikama",
+        "destination": "jambur",
+        "previousfare": " 12.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "90",
+        "departure": "brikama",
+        "destination": "bintang",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "91",
+        "departure": "brikama",
+        "destination": "pirang",
+        "previousfare": " 13.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "92",
+        "departure": "brikama",
+        "destination": "farato",
+        "previousfare": " 13.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "93",
+        "departure": "brikama",
+        "destination": "sohm",
+        "previousfare": " 20.00",
+        "newfare": " 23.00"
+    },
+    {
+        "id": "94",
+        "departure": "brikama",
+        "destination": "umoto",
+        "previousfare": " 20.00",
+        "newfare": " 23.00"
+    },
+    {
+        "id": "95",
+        "departure": "brikama",
+        "destination": "jakoi",
+        "previousfare": " 30.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "96",
+        "departure": "brikama",
+        "destination": "umpack",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "97",
+        "departure": "brikama",
+        "destination": "giffang",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "98",
+        "departure": "brikama",
+        "destination": "kampassa",
+        "previousfare": " 65.00",
+        "newfare": " 70.00"
+    },
+    {
+        "id": "99",
+        "departure": "brikama",
+        "destination": "old_yundum",
+        "previousfare": " 10.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "100",
+        "departure": "brikama",
+        "destination": "sinchu_alagie",
+        "previousfare": " 10.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "101",
+        "departure": "brikama",
+        "destination": "lamin",
+        "previousfare": " 9.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "102",
+        "departure": "brikama",
+        "destination": "farato",
+        "previousfare": " 8.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "103",
+        "departure": "brikama",
+        "destination": "busumbala",
+        "previousfare": " 8.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "104",
+        "departure": "brikama",
+        "destination": "kanaw",
+        "previousfare": " 28.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "105",
+        "departure": "brikama",
+        "destination": "brufut",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "106",
+        "departure": "brikama",
+        "destination": "turn_table",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "107",
+        "departure": "brikama",
+        "destination": "kanilai",
+        "previousfare": " 45.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "108",
+        "departure": "brikama",
+        "destination": "yundun",
+        "previousfare": " 8.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "109",
+        "departure": "brikama",
+        "destination": "banjuliding",
+        "previousfare": " 8.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "110",
+        "departure": "kartong",
+        "destination": "gunjur",
+        "previousfare": " 10.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "111",
+        "departure": "farato",
+        "destination": "jambur",
+        "previousfare": " 9.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "112",
+        "departure": "new_yundum",
+        "destination": "serrekunda",
+        "previousfare": " 9.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "113"
+    },
+    {
+        "id": "114",
+        "departure": "soma",
+        "destination": "burreng",
+        "previousfare": " 30.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "115",
+        "departure": "soma",
+        "destination": "kwenela",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "116",
+        "departure": "soma",
+        "destination": "kalagi",
+        "previousfare": " 55.00",
+        "newfare": " 60.00"
+    },
+    {
+        "id": "117",
+        "departure": "soma",
+        "destination": "senoba",
+        "previousfare": " 23.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "118",
+        "departure": "soma",
+        "destination": "senoba",
+        "previousfare": " 18.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "119",
+        "departure": "soma",
+        "destination": "japineh",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "120",
+        "departure": "soma",
+        "destination": "jalaberri",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "121",
+        "departure": "soma",
+        "destination": "pakaliba",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "122",
+        "departure": "soma",
+        "destination": "sibanor",
+        "previousfare": " 80.00",
+        "newfare": " 85.00"
+    },
+    {
+        "id": "123",
+        "departure": "soma",
+        "destination": "eli_tenda",
+        "previousfare": " 23.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "124",
+        "departure": "soma",
+        "destination": "eli_tenda_galegele",
+        "previousfare": " 18.00",
+        "newfare": " 20.00"
+    },
+    {
+        "id": "125",
+        "departure": "barra",
+        "destination": "kuntaya",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "126",
+        "departure": "barra",
+        "destination": "kerr_jarga",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "127",
+        "departure": "barra",
+        "destination": "dasilami",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "128",
+        "departure": "barra",
+        "destination": "ndunku",
+        "previousfare": " 23.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "129",
+        "departure": "barra",
+        "destination": "samba_kala",
+        "previousfare": " 23.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "130",
+        "departure": "barra",
+        "destination": "chamen",
+        "previousfare": " 23.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "131",
+        "departure": "barra",
+        "destination": "medina",
+        "previousfare": " 23.00",
+        "newfare": " 23.00"
+    },
+    {
+        "id": "132",
+        "departure": "barra",
+        "destination": "minteh_kunda",
+        "previousfare": " 70.00",
+        "newfare": " 75.00"
+    },
+    {
+        "id": "133",
+        "departure": "barra",
+        "destination": "no_kunda",
+        "previousfare": " 70.00",
+        "newfare": " 75.00"
+    },
+    {
+        "id": "134",
+        "departure": "barra",
+        "destination": "konteh_kunda",
+        "previousfare": " 70.00",
+        "newfare": " 75.00"
+    },
+    {
+        "id": "135",
+        "departure": "barra",
+        "destination": "kerr_chernobah",
+        "previousfare": " 27.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "136",
+        "departure": "farafenni",
+        "destination": "kaur",
+        "previousfare": " 30.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "137",
+        "departure": "farafenni",
+        "destination": "balanghar",
+        "previousfare": " 30.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "138",
+        "departure": "farafenni",
+        "destination": "sanjal",
+        "previousfare": " 18.00",
+        "newfare": " 20.00"
+    },
+    {
+        "id": "139",
+        "departure": "farafenni",
+        "destination": "illiassa",
+        "previousfare": " 20.00",
+        "newfare": " 22.00"
+    },
+    {
+        "id": "140",
+        "departure": "farafenni",
+        "destination": "no_kunda",
+        "previousfare": " 28.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "141",
+        "departure": "farafenni",
+        "destination": "buraya",
+        "previousfare": " 28.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "142",
+        "departure": "farafenni",
+        "destination": "minteh_kunda",
+        "previousfare": " 28.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "143",
+        "departure": "farafenni",
+        "destination": "njaba_kunda",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "144",
+        "departure": "farafenni",
+        "destination": "konteh_kunda",
+        "previousfare": " 25.00",
+        "newfare": " 37.00"
+    },
+    {
+        "id": "145",
+        "departure": "farafenni",
+        "destination": "sokoto",
+        "previousfare": " 25.00",
+        "newfare": " 37.00"
+    },
+    {
+        "id": "146",
+        "departure": "farafenni",
+        "destination": "niggi",
+        "previousfare": " 25.00",
+        "newfare": " 37.00"
+    },
+    {
+        "id": "147",
+        "departure": "farafenni",
+        "destination": "kerr_biram",
+        "previousfare": " 25.00",
+        "newfare": " 37.00"
+    },
+    {
+        "id": "148",
+        "departure": "farafenni",
+        "destination": "banni",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "149",
+        "departure": "farafenni",
+        "destination": "dabo",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "150",
+        "departure": "farafenni",
+        "destination": "kerr_patch",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "151",
+        "departure": "farefenni",
+        "destination": "katchang",
+        "previousfare": " 30.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "152",
+        "departure": "farafenni",
+        "destination": "dibba_kunda",
+        "previousfare": " 20.00",
+        "newfare": " 22.00"
+    },
+    {
+        "id": "153",
+        "departure": "farafenni",
+        "destination": "gunjur",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "154",
+        "departure": "farafenni",
+        "destination": "saba",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "155",
+        "departure": "farafenni",
+        "destination": "kinteh_kunda",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "156",
+        "departure": "farafenni",
+        "destination": "suwareh_kunda",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "157",
+        "departure": "farafenni",
+        "destination": "kerewan",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "158",
+        "departure": "kaur",
+        "destination": "maccarthy",
+        "previousfare": " 70.00",
+        "newfare": " 75.00"
+    },
+    {
+        "id": "159",
+        "departure": "kaur",
+        "destination": "panchang",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "160",
+        "departure": "kaur",
+        "destination": "njaw",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "161",
+        "departure": "kaur",
+        "destination": "nyaga",
+        "previousfare": " 35.00",
+        "newfare": " 38.00"
+    },
+    {
+        "id": "162",
+        "departure": "kaur",
+        "destination": "farafenni",
+        "previousfare": " 30.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "163",
+        "departure": "basse",
+        "destination": "fatoto",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "164",
+        "departure": "basse",
+        "destination": "sare",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "165",
+        "departure": "basse",
+        "destination": "demba_kunda",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "166",
+        "departure": "basse",
+        "destination": "gambisara",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "167",
+        "departure": "basse",
+        "destination": "numuyeli",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "168",
+        "departure": "basse",
+        "destination": "sabi",
+        "previousfare": " 25.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "169",
+        "departure": "basse",
+        "destination": "nyamanarr",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "170",
+        "departure": "basse",
+        "destination": "lamoi",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "171",
+        "departure": "basse",
+        "destination": "sudowali",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "172",
+        "departure": "basse",
+        "destination": "sare_alpha",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "173",
+        "departure": "basse",
+        "destination": "waliba",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "174",
+        "departure": "basse",
+        "destination": "ndumbo",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "175",
+        "departure": "basse",
+        "destination": "sare-alpha",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "176",
+        "departure": "basse",
+        "destination": "kudang",
+        "previousfare": " 25.00",
+        "newfare": " 28.00"
+    },
+    {
+        "id": "177",
+        "departure": "basse",
+        "destination": "mafatel",
+        "previousfare": " 25.00",
+        "newfare": " 28.00"
+    },
+    {
+        "id": "178",
+        "departure": "basse",
+        "destination": "bansang",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "179",
+        "departure": "bansang",
+        "destination": "sare_bojo",
+        "previousfare": " 25.00",
+        "newfare": " 28.00"
+    },
+    {
+        "id": "180",
+        "departure": "bansang",
+        "destination": "macarthy",
+        "previousfare": " 20.00",
+        "newfare": " 23.00"
+    },
+    {
+        "id": "181",
+        "departure": "bansang",
+        "destination": "patcharr",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "182",
+        "departure": "bansang",
+        "destination": "fula_bansangtifa",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "183",
+        "departure": "bansang",
+        "destination": "sameh",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "184",
+        "departure": "bansang",
+        "destination": "karantaba",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "185",
+        "departure": "bansang",
+        "destination": "yoro_fula",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "186",
+        "departure": "bansang",
+        "destination": "kerewan",
+        "previousfare": " 30.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "187",
+        "departure": "bansang",
+        "destination": "brikamaba",
+        "previousfare": " 30.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "188",
+        "departure": "bansang",
+        "destination": "akaerewan_sanba_sira",
+        "previousfare": " 10.00",
+        "newfare": " 11.00"
+    },
+    {
+        "id": "189",
+        "departure": "brikamaba",
+        "destination": "taif",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "190",
+        "departure": "brikamaba",
+        "destination": "sinchu_dembali",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "191",
+        "departure": "brikamaba",
+        "destination": "pacharr",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "192",
+        "departure": "brikamaba",
+        "destination": "fula_bantang",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "193",
+        "departure": "pacharr",
+        "destination": "bansang",
+        "previousfare": " 22.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "194",
+        "departure": "fula_bantang",
+        "destination": "bansang",
+        "previousfare": " 22.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "195",
+        "departure": "brikamaba",
+        "destination": "kudang",
+        "previousfare": " 27.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "196",
+        "departure": "brikamaba",
+        "destination": "jerreng",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "197",
+        "departure": "brikamaba",
+        "destination": "bambakolong",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "198",
+        "departure": "brikamaba",
+        "destination": "burreng",
+        "previousfare": " 60.00",
+        "newfare": " 65.00"
+    },
+    {
+        "id": "199",
+        "departure": "birakamaba",
+        "destination": "dasilami",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "200",
+        "departure": "brikamaba",
+        "destination": "kaolon",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "201",
+        "departure": "brikamaba",
+        "destination": "macarthy",
+        "previousfare": " 27.00",
+        "newfare": " 30.00"
+    },
+    {
+        "id": "202",
+        "departure": "brikamaba",
+        "destination": "sakuuleh_kundah",
+        "previousfare": " 22.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "203",
+        "departure": "sukuta",
+        "destination": "yunna",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "204",
+        "departure": "sukuta",
+        "destination": "mariama_kunda",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "205",
+        "departure": "brikamaba",
+        "destination": "buraba",
+        "previousfare": " 22.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "206",
+        "departure": "brikamaba",
+        "destination": "soma",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "207",
+        "departure": "buraba",
+        "destination": "macarthy",
+        "previousfare": " 12.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "208",
+        "departure": "brikamaba",
+        "destination": "sinchu_alagie",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "209",
+        "departure": "brikamaba",
+        "destination": "basse",
+        "previousfare": " 70.00",
+        "newfare": " 75.00"
+    },
+    {
+        "id": "210",
+        "departure": "sukuta",
+        "destination": "turntable",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "211",
+        "departure": "tugering",
+        "destination": "brufut",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "212",
+        "departure": "latirkunda",
+        "destination": "bambo",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "213",
+        "departure": "latirkunda",
+        "destination": "sukuta",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "214",
+        "departure": "wassu",
+        "destination": "farafenni",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "215",
+        "departure": "wassu",
+        "destination": "macarthy",
+        "previousfare": " 43.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "216",
+        "departure": "kaur",
+        "destination": "maccarthy",
+        "previousfare": " 70.00",
+        "newfare": " 75.00"
+    },
+    {
+        "id": "217",
+        "departure": "lamin",
+        "destination": "mandinaring",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "218",
+        "departure": "lamin",
+        "destination": "makumba_ya",
+        "previousfare": " 12.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "219",
+        "departure": "jamburr",
+        "destination": "farato",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "220",
+        "departure": "barra",
+        "destination": "sab",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "221",
+        "departure": "barra",
+        "destination": "bani",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "222",
+        "departure": "barra",
+        "destination": "gunjur",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "223",
+        "departure": "barra",
+        "destination": "kinteh_kunda",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "224",
+        "departure": "barra",
+        "destination": "suwareh_kunda",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "225",
+        "departure": "brikamaba",
+        "destination": "choya",
+        "previousfare": " 55.00",
+        "newfare": " 60.00"
+    },
+    {
+        "id": "226",
+        "departure": "brikamaba",
+        "destination": "basse",
+        "previousfare": " 65.00",
+        "newfare": " 70.00"
+    },
+    {
+        "id": "227",
+        "departure": "brikamaba",
+        "destination": "serrekunda",
+        "previousfare": " 180.00",
+        "newfare": " 195.00"
+    },
+    {
+        "id": "228",
+        "departure": "brikamaba",
+        "destination": "brrikamaba_kombo",
+        "previousfare": " 180.00",
+        "newfare": " 190.00"
+    },
+    {
+        "id": "229",
+        "departure": "brikamaba",
+        "destination": "kalagi",
+        "previousfare": " 155.00",
+        "newfare": " 160.00"
+    },
+    {
+        "id": "230",
+        "departure": "brikamaba",
+        "destination": "sankandi",
+        "previousfare": " 130.00",
+        "newfare": " 140.00"
+    },
+    {
+        "id": "231",
+        "departure": "brikamaba",
+        "destination": "janjanbureh",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "232",
+        "departure": "brikamaba",
+        "destination": "kaolong",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "233",
+        "departure": "brikamaba",
+        "destination": "sotokoi",
+        "previousfare": " 32.00",
+        "newfare": " 35.00"
+    },
+    {
+        "id": "234",
+        "departure": "brikamaba",
+        "destination": "pakaliba",
+        "previousfare": " 55.00",
+        "newfare": " 60.00"
+    },
+    {
+        "id": "235",
+        "departure": "brikamaba",
+        "destination": "sare_bojo",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "236",
+        "departure": "pacharr",
+        "destination": "fula_bansangtifa",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "237",
+        "departure": "pacharr",
+        "destination": "maccarthy",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "238",
+        "departure": "bansang",
+        "destination": "kerewan_sambasira",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "239",
+        "departure": "barra",
+        "destination": "maccarthy",
+        "previousfare": " 175.00",
+        "newfare": " 185.00"
+    },
+    {
+        "id": "240",
+        "departure": "barra",
+        "destination": "bansang",
+        "previousfare": " 195.00",
+        "newfare": " 210.00"
+    },
+    {
+        "id": "241",
+        "departure": "barra",
+        "destination": "basse",
+        "previousfare": " 220.00",
+        "newfare": " 235.00"
+    },
+    {
+        "id": "242",
+        "departure": "barra",
+        "destination": "fass",
+        "previousfare": " 20.00",
+        "newfare": " 22.00"
+    },
+    {
+        "id": "243",
+        "departure": "barra",
+        "destination": "kerr_patch",
+        "previousfare": " 60.00",
+        "newfare": " 65.00"
+    },
+    {
+        "id": "244",
+        "departure": "barra",
+        "destination": "kerr_selleh",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "245",
+        "departure": "barra",
+        "destination": "kuntaya",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "246"
+    },
+    {
+        "id": "247",
+        "departure": "barra",
+        "destination": "kerr_jatta",
+        "previousfare": " 20.00",
+        "newfare": " 22.00"
+    },
+    {
+        "id": "248",
+        "departure": "barra",
+        "destination": "fass",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "249",
+        "departure": "barra",
+        "destination": "amdalaye",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "250",
+        "departure": "barra",
+        "destination": "buniadou",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "251",
+        "departure": "barra",
+        "destination": "bikindiki",
+        "previousfare": " 20.00",
+        "newfare": " 22.00"
+    },
+    {
+        "id": "252",
+        "departure": "barra",
+        "destination": "kerr_selleh",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "253",
+        "departure": "barra",
+        "destination": "kuntaya",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "254",
+        "departure": "barra",
+        "destination": "kerr_jarga",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "255",
+        "departure": "barra",
+        "destination": "munyagen",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "256",
+        "departure": "barra",
+        "destination": "dasilami",
+        "previousfare": " 30.00",
+        "newfare": " 33.00"
+    },
+    {
+        "id": "257",
+        "departure": "barrra",
+        "destination": "kerewan",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "258",
+        "departure": "barra",
+        "destination": "saba",
+        "previousfare": " 60.00",
+        "newfare": " 65.00"
+    },
+    {
+        "id": "259",
+        "departure": "barra",
+        "destination": "salikenyeh",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "260",
+        "departure": "barra",
+        "destination": "farafenni",
+        "previousfare": " 105.00",
+        "newfare": " 115.00"
+    },
+    {
+        "id": "261",
+        "departure": "barra",
+        "destination": "kaur",
+        "previousfare": " 135.00",
+        "newfare": " 140.00"
+    },
+    {
+        "id": "262",
+        "departure": "barra",
+        "destination": "wassu",
+        "previousfare": " 210.00",
+        "newfare": " 220.00"
+    },
+    {
+        "id": "263",
+        "departure": "barra",
+        "destination": "maccarthy",
+        "previousfare": " 230.00",
+        "newfare": " 245.00"
+    },
+    {
+        "id": "264",
+        "departure": "barra",
+        "destination": "bansang",
+        "previousfare": " 275.00",
+        "newfare": " 285.00"
+    },
+    {
+        "id": "265",
+        "departure": "barra",
+        "destination": "basse",
+        "previousfare": " 300.00",
+        "newfare": " 315.00"
+    },
+    {
+        "id": "266",
+        "departure": "brikama",
+        "destination": "baniana",
+        "previousfare": " 35.00",
+        "newfare": " 40.00"
+    },
+    {
+        "id": "267",
+        "departure": "brikama",
+        "destination": "kamfenda",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "268",
+        "departure": "brikama",
+        "destination": "kapa",
+        "previousfare": " 4.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "269",
+        "departure": "brikama",
+        "destination": "sanyanjorr",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "270",
+        "departure": "brikama",
+        "destination": "dasilami_sanyajorr",
+        "previousfare": " 50.00",
+        "newfare": " 55.00"
+    },
+    {
+        "id": "271",
+        "departure": "brikama",
+        "destination": "tabakounda",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "272",
+        "departure": "brikama",
+        "destination": "sikon",
+        "previousfare": " 40.00",
+        "newfare": " 45.00"
+    },
+    {
+        "id": "273",
+        "departure": "brikama",
+        "destination": "kenbujeh",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "274",
+        "departure": "brikama",
+        "destination": "dimbaya",
+        "previousfare": " 12.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "275",
+        "departure": "brikama",
+        "destination": "makumbaya",
+        "previousfare": " 12.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "276",
+        "departure": "brikama",
+        "destination": "karantaba",
+        "previousfare": " 95.00",
+        "newfare": " 105.00"
+    },
+    {
+        "id": "277",
+        "departure": "brikama",
+        "destination": "tankular",
+        "previousfare": " 95.00",
+        "newfare": " 105.00"
+    },
+    {
+        "id": "278",
+        "departure": "brikama",
+        "destination": "keneba",
+        "previousfare": " 85.00",
+        "newfare": " 95.00"
+    },
+    {
+        "id": "279",
+        "departure": "brikama",
+        "destination": "manduar",
+        "previousfare": " 85.00",
+        "newfare": " 95.00"
+    },
+    {
+        "id": "280",
+        "departure": "brikama",
+        "destination": "sankandi",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "281",
+        "departure": "brikama",
+        "destination": "coastal_road",
+        "previousfare": " 12.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "282",
+        "departure": "brikama",
+        "destination": "kartong",
+        "previousfare": " 22.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "283",
+        "departure": "brikama",
+        "destination": "sifo",
+        "previousfare": " 12.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "284",
+        "departure": "brikama",
+        "destination": "nyofeleh",
+        "previousfare": " 13.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "285",
+        "departure": "brikama",
+        "destination": "kassa_kunda",
+        "previousfare": " 13.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "286",
+        "departure": "brikama",
+        "destination": "busuranding",
+        "previousfare": " 13.00",
+        "newfare": " 15.00"
+    },
+    {
+        "id": "287",
+        "departure": "brikama",
+        "destination": "farato",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "288",
+        "departure": "sanyang",
+        "destination": "serrekunda",
+        "previousfare": " 15.00",
+        "newfare": " 18.00"
+    },
+    {
+        "id": "289",
+        "departure": "sanyang",
+        "destination": "tanji",
+        "previousfare": " 12.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "290",
+        "departure": "sanyang",
+        "destination": "gunjur",
+        "previousfare": " 10.00",
+        "newfare": " 10.00"
+    },
+    {
+        "id": "291",
+        "departure": "sanyang",
+        "destination": "tujereng",
+        "previousfare": " 8.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "292",
+        "departure": "sanyang",
+        "destination": "turn_table",
+        "previousfare": " 18.00",
+        "newfare": " 20.00"
+    },
+    {
+        "id": "293",
+        "departure": "turntable",
+        "destination": "serrekunda",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "294",
+        "departure": "turntable",
+        "destination": "senegambia",
+        "previousfare": " 7.00",
+        "newfare": " 8.00"
+    },
+    {
+        "id": "295",
+        "departure": "brikama",
+        "destination": "kujung",
+        "previousfare": " 13.00",
+        "newfare": " 13.00"
+    },
+    {
+        "id": "296"
+    },
+    {
+        "id": "297"
+    },
+    {
+        "id": "298",
+        "departure": "farefenni",
+        "destination": "njawo",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "299",
+        "departure": "farefenni",
+        "destination": "panchang",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "300",
+        "departure": "farafenni",
+        "destination": "nyangen_banta",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "301",
+        "departure": "farafenni",
+        "destination": "nyangen",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "302",
+        "departure": "farafenni",
+        "destination": "njoben",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "303",
+        "departure": "farafenni",
+        "destination": "dingikai",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "304",
+        "departure": "farafenni",
+        "destination": "freedawsi",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "305",
+        "departure": "farafenni",
+        "destination": "cassh",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "306",
+        "departure": "farafenni",
+        "destination": "wassu",
+        "previousfare": " 110.00",
+        "newfare": " 120.00"
+    },
+    {
+        "id": "307",
+        "departure": "farafenni",
+        "destination": "bansang",
+        "previousfare": " 175.00",
+        "newfare": " 185.00"
+    },
+    {
+        "id": "308",
+        "departure": "farafenni",
+        "destination": "maccarthy",
+        "previousfare": " 130.00",
+        "newfare": " 140.00"
+    },
+    {
+        "id": "309",
+        "departure": "farafenni",
+        "destination": "basse",
+        "previousfare": " 220.00",
+        "newfare": " 230.00"
+    },
+    {
+        "id": "310"
+    },
+    {
+        "id": "311"
+    },
+    {
+        "id": "312",
+        "departure": "farefenni",
+        "destination": "njawo",
+        "previousfare": " 45.00",
+        "newfare": " 50.00"
+    },
+    {
+        "id": "313",
+        "departure": "farefenni",
+        "destination": "panchang",
+        "previousfare": " 55.00",
+        "newfare": " 60.00"
+    },
+    {
+        "id": "314",
+        "departure": "farafenni",
+        "destination": "nyangen_banta",
+        "previousfare": " 65.00",
+        "newfare": " 70.00"
+    },
+    {
+        "id": "315",
+        "departure": "farafenni",
+        "destination": "nyangen",
+        "previousfare": " 65.00",
+        "newfare": " 70.00"
+    },
+    {
+        "id": "316",
+        "departure": "farafenni",
+        "destination": "fass",
+        "previousfare": " 65.00",
+        "newfare": " 70.00"
+    },
+    {
+        "id": "317",
+        "departure": "farafenni",
+        "destination": "dingikai",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "318",
+        "departure": "farafenni",
+        "destination": "freedawsi",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "319",
+        "departure": "farafenni",
+        "destination": "njoben",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "320",
+        "departure": "farafenni",
+        "destination": "cassh",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "321",
+        "departure": "farafenni",
+        "destination": "wassu",
+        "previousfare": " 75.00",
+        "newfare": " 80.00"
+    },
+    {
+        "id": "322",
+        "departure": "farafenni",
+        "destination": "maccarthy",
+        "previousfare": " 100.00",
+        "newfare": " 105.00"
+    },
+    {
+        "id": "323",
+        "departure": "farafenni",
+        "destination": "sankuli_kunda",
+        "previousfare": " 125.00",
+        "newfare": " 130.00"
+    },
+    {
+        "id": "324",
+        "departure": "farafenni",
+        "destination": "bansang",
+        "previousfare": " 150.00",
+        "newfare": " 160.00"
+    },
+    {
+        "id": "325",
+        "departure": "farafenni",
+        "destination": "basse",
+        "previousfare": " 175.00",
+        "newfare": " 185.00"
+    },
+    {
+        "id": "326",
+        "departure": "farafenni",
+        "destination": "sabak",
+        "previousfare": " 10.00",
+        "newfare": " 12.00"
+    },
+    {
+        "id": "327",
+        "departure": "farafenni",
+        "destination": "kataba",
+        "previousfare": " 15.00",
+        "newfare": " 17.00"
+    },
+    {
+        "id": "328",
+        "departure": "farafenni",
+        "destination": "dibba_kunda",
+        "previousfare": " 20.00",
+        "newfare": " 22.00"
+    },
+    {
+        "id": "329",
+        "departure": "farafenni",
+        "destination": "chekel",
+        "previousfare": " 25.00",
+        "newfare": " 25.00"
+    },
+    {
+        "id": "330",
+        "departure": "farafenni",
+        "destination": "palane",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "331",
+        "departure": "farafenni",
+        "destination": "njensanjal",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "332",
+        "departure": "farafenni",
+        "destination": "sinchu",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "333",
+        "departure": "farafenni",
+        "destination": "mbain",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "334",
+        "departure": "farafenni",
+        "destination": "loomen",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "335",
+        "departure": "farafenni",
+        "destination": "ndawen",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "336",
+        "departure": "farafenni",
+        "destination": "ngensanjal",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "337",
+        "departure": "farafenni",
+        "destination": "kani_kunda",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "338",
+        "departure": "farafenni",
+        "destination": "keebamba",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "339",
+        "departure": "farafenni",
+        "destination": "sarra_kunda",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "340",
+        "departure": "farafenni",
+        "destination": "kumbiji",
+        "previousfare": " 25.00",
+        "newfare": " 27.00"
+    },
+    {
+        "id": "341",
+        "departure": "farafenni",
+        "destination": "kunjata",
+        "previousfare": " 30.00",
+        "newfare": " 32.00"
+    },
+    {
+        "id": "342",
+        "departure": "farafenni",
+        "destination": "mbanbali",
+        "previousfare": " 35.00",
+        "newfare": " 37.00"
+    }
+]
